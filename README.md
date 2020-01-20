@@ -1,2 +1,2 @@
 # dns
-blacklist
+blacklist for my pi-hole
