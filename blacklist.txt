@@ -1,0 +1,70 @@
+##IJNNJI 2020
+##
+##Blocks for Popups on 123movies and Putlocker sourced from the following URLs
+##https://123movies-putlocker.com/putlocker-mirrors
+##http://123movies-putlocker.com/123movies-proxy
+0.0.0.0 01mspmd5yalky8.com
+0.0.0.0 1amdv.com
+0.0.0.0 4ov6v.com
+0.0.0.0 89.41.170.226
+0.0.0.0 americascardroom.eu
+0.0.0.0 anizedglittledisco.info
+0.0.0.0 avast.en.softonic.info
+0.0.0.0 best2019-games-web4.com
+0.0.0.0 bestanimegame.com
+0.0.0.0 bestgamesvault.com
+0.0.0.0 booking.com
+0.0.0.0 cadsans.com
+0.0.0.0 catanova.co
+0.0.0.0 cradver.livejasmin.com
+0.0.0.0 d3x2.myfastcdn.com
+0.0.0.0 deloplen.com
+0.0.0.0 d.lofv.xyz
+0.0.0.0 dsw44z5igdmmbo.com
+0.0.0.0 d.workflowboard.com
+0.0.0.0 eh8jq4cmq8j9g5.com
+0.0.0.0 expressvpn.com
+0.0.0.0 fathed.pro
+0.0.0.0 funwithliving.com
+0.0.0.0 gaming4play.com
+0.0.0.0 gearbest.com
+0.0.0.0 hitboom.net
+0.0.0.0 home.contractors
+0.0.0.0 marial.pro
+0.0.0.0 mecheckfl.site
+0.0.0.0 mptentry.com
+0.0.0.0 myemailtracking.com
+0.0.0.0 n13x4nfw8frika.com
+0.0.0.0 newsandpromotions.com
+0.0.0.0 nutaku.net
+0.0.0.0 o3sndvzo25.com
+0.0.0.0 offer.alibaba.com
+0.0.0.0 pamela.tncrun.net
+0.0.0.0 pheepudo.net
+0.0.0.0 pr0pgutf0hp089.com
+0.0.0.0 recode.pw
+0.0.0.0 starstable.com
+0.0.0.0 syndication.exosrv.com
+0.0.0.0 techcola.com
+0.0.0.0 thebestgame2020.com
+0.0.0.0 topgamescentre.com
+0.0.0.0 trustednotice.news
+0.0.0.0 twndo77864.com
+0.0.0.0 verifyclicksolutions.com
+0.0.0.0 vltwox7zl7h1wv.com
+0.0.0.0 voldt.pro
+0.0.0.0 vshare.eu
+0.0.0.0 winningpokernetwork.com
+0.0.0.0 wk4x5rdtoz2tn0.com
+0.0.0.0 woazowup.net
+0.0.0.0 worldofwarships.com
+0.0.0.0 www1.watchmygirlfriend.to
+
+##Roku log collecting
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 captive.roku.com
+0.0.0.0 cooper.logs.roku.com
+
+##Charter/Spectrum log collection
+0.0.0.0 splunk.spectrum.net
+0.0.0.0 v-collector.dp.aws.charter.com
