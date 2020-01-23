@@ -74,6 +74,25 @@
 0.0.0.0 ws1xr1u2b4.top
 0.0.0.0 cpmstar.com
 0.0.0.0 madslims.com
+0.0.0.0 allmygreatestlife.com
+0.0.0.0 ws1xr1u2b4.top
+0.0.0.0 cpmstar.com
+0.0.0.0 madslims.com
+0.0.0.0 deloplen.com
+0.0.0.0 zijaipse.com
+0.0.0.0 svintificaneinevi.info             
+0.0.0.0 adnxs.com
+0.0.0.0 www.russdarrowmadisonmazda.com
+0.0.0.0 track.ecampaignstats.com
+0.0.0.0 filter.looksmartppc.com
+0.0.0.0 www.turpindodgeofdubuque.net
+0.0.0.0 www.myemailtracking.com
+0.0.0.0 sp.popcash.net
+0.0.0.0 areantaid.site
+0.0.0.0 www.expressvpn.com
+0.0.0.0 acloudvideos.com
+0.0.0.0 lonelypartners.com
+0.0.0.0 whatagraph.com
 
 
 ##Roku log collecting
