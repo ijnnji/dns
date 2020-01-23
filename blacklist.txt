@@ -59,6 +59,7 @@
 0.0.0.0 woazowup.net
 0.0.0.0 worldofwarships.com
 0.0.0.0 www1.watchmygirlfriend.to
+0.0.0.0 allmygreatestlife
 
 ##Roku log collecting
 0.0.0.0 scribe.logs.roku.com
