@@ -93,7 +93,19 @@
 0.0.0.0 acloudvideos.com
 0.0.0.0 lonelypartners.com
 0.0.0.0 whatagraph.com
-
+0.0.0.0 www.winningpokernetwork.com
+0.0.0.0 takelnk.com
+0.0.0.0 roustast.net
+0.0.0.0 getmyidea.com
+0.0.0.0 ptaussee.net
+0.0.0.0 gqqdlckj8y.com
+0.0.0.0 viglink.com
+0.0.0.0 viatepigan.com
+0.0.0.0 grooksom.com
+0.0.0.0 stremanp.com
+0.0.0.0 cryptolab.one
+0.0.0.0 postlnk.com
+0.0.0.0 gqqdlckj8y.com
 
 ##Roku log collecting
 0.0.0.0 scribe.logs.roku.com
