@@ -62,6 +62,9 @@
 0.0.0.0 allmygreatestlife
 0.0.0.0 vhiyyaal32.top
 0.0.0.0 www.americascardroom.eu
+0.0.0.0 jqfjrjka5t.top
+0.0.0.0 allmygoodlife.com
+
 
 ##Roku log collecting
 0.0.0.0 scribe.logs.roku.com
