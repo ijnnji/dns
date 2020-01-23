@@ -6,7 +6,6 @@
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 1amdv.com
 0.0.0.0 4ov6v.com
-0.0.0.0 89.41.170.226
 0.0.0.0 americascardroom.eu
 0.0.0.0 anizedglittledisco.info
 0.0.0.0 avast.en.softonic.info
