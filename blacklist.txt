@@ -71,6 +71,7 @@
 0.0.0.0 find-my-great-life.com
 0.0.0.0 ie8eamus.com
 0.0.0.0 vhiyyaal32.top
+0.0.0.0 allmygreatestlife.com
 
 ##Roku log collecting
 0.0.0.0 scribe.logs.roku.com
