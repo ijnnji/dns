@@ -64,7 +64,11 @@
 0.0.0.0 www.americascardroom.eu
 0.0.0.0 jqfjrjka5t.top
 0.0.0.0 allmygoodlife.com
-
+0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 cdn15.acloudimages.com
+0.0.0.0 pixel.runative-syndicate.com
+0.0.0.0 7t15ny0f4f.top
+0.0.0.0 
 
 ##Roku log collecting
 0.0.0.0 scribe.logs.roku.com
