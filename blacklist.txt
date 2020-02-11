@@ -105,6 +105,10 @@
 0.0.0.0 www.turpindodgeofdubuque.net
 0.0.0.0 www.winningpokernetwork.com
 0.0.0.0 zijaipse.com
+0.0.0.0 thefiletopdf.com
+0.0.0.0 fadslims.com
+
+
 
 ##Roku log collecting
 0.0.0.0 captive.roku.com
