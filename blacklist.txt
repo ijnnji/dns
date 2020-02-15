@@ -20,6 +20,7 @@
 0.0.0.0 bestanimegame.com
 0.0.0.0 bestgamesvault.com
 0.0.0.0 booking.com
+0.0.0.0 browsec-vpn-free-and-unlimited-vpn.en.softonic.info
 0.0.0.0 cadsans.com
 0.0.0.0 cadsoks.com
 0.0.0.0 catanova.co
@@ -31,10 +32,13 @@
 0.0.0.0 d3x2.myfastcdn.com
 0.0.0.0 deloplen.com
 0.0.0.0 d.lofv.xyz
+0.0.0.0 driver-booster-free.en.softonic.info
 0.0.0.0 dsw44z5igdmmbo.com
 0.0.0.0 d.workflowboard.com
+0.0.0.0 eengaums.com
 0.0.0.0 eh8jq4cmq8j9g5.com
 0.0.0.0 expressvpn.com
+0.0.0.0 fadslims.com
 0.0.0.0 fathed.pro
 0.0.0.0 filter.looksmartppc.com
 0.0.0.0 find-my-great-life.com
@@ -42,6 +46,7 @@
 0.0.0.0 gaming4play.com
 0.0.0.0 gearbest.com
 0.0.0.0 getmyidea.com
+0.0.0.0 glauvoob.com
 0.0.0.0 gqqdlckj8y.com
 0.0.0.0 grooksom.com
 0.0.0.0 hitboom.net
@@ -79,10 +84,12 @@
 0.0.0.0 takelnk.com
 0.0.0.0 techcola.com
 0.0.0.0 thebestgame2020.com
+0.0.0.0 thefiletopdf.com
 0.0.0.0 topgamescentre.com
 0.0.0.0 track.ecampaignstats.com
 0.0.0.0 trustednotice.news
 0.0.0.0 twndo77864.com
+0.0.0.0 uncached.com
 0.0.0.0 us.shein.com
 0.0.0.0 verifyclicksolutions.com
 0.0.0.0 vhiyyaal32.top
@@ -105,13 +112,7 @@
 0.0.0.0 www.turpindodgeofdubuque.net
 0.0.0.0 www.winningpokernetwork.com
 0.0.0.0 zijaipse.com
-0.0.0.0 thefiletopdf.com
-0.0.0.0 fadslims.com
-0.0.0.0 driver-booster-free.en.softonic.info
-0.0.0.0 eengaums.com
-0.0.0.0 uncached.com
-0.0.0.0 glauvoob.com
-0.0.0.0 browsec-vpn-free-and-unlimited-vpn.en.softonic.info
+
 
 ##Roku log collecting
 0.0.0.0 captive.roku.com
