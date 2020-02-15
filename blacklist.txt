@@ -109,6 +109,9 @@
 0.0.0.0 fadslims.com
 0.0.0.0 driver-booster-free.en.softonic.info
 0.0.0.0 eengaums.com
+0.0.0.0 uncached.com
+0.0.0.0 glauvoob.com
+0.0.0.0 browsec-vpn-free-and-unlimited-vpn.en.softonic.info
 
 ##Roku log collecting
 0.0.0.0 captive.roku.com
