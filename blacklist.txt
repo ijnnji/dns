@@ -122,3 +122,49 @@
 ##Charter/Spectrum log collection
 0.0.0.0 splunk.spectrum.net
 0.0.0.0 v-collector.dp.aws.charter.com
+
+##List of typosquatted domains 3/25/20
+##https://techscammersunited.com/t/list-of-typosquatted-domains-3-25-20-find-popups/10782
+woogle.com
+goggle.com
+googme.com
+mgail.com
+gmil.com
+gmai.com
+giail.com
+gmiil.com
+gmqil.com
+gmahl.com
+gmaal.com
+gmaim.com
+gmaih.com
+oyutube.com
+yuotube.com
+yotuube.com
+youutbe.com
+youtueb.com
+xoutube.com
+ioutube.com
+ykutube.com
+ygutube.com
+yottube.com
+yowtube.com
+yoetube.com
+youpube.com
+youdube.com
+youtwbe.com
+youtebe.com
+youtuce.com
+youtufe.com
+youture.com
+youtubd.com
+youtubg.com
+youtuba.com
+youtubu.com
+yautube.com
+youtabe.com
+yeutube.com
+youtubi.com
+yootube.com
+youtubo.com
+youtubecom.com
