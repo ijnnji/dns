@@ -125,46 +125,46 @@
 
 ##List of typosquatted domains 3/25/20
 ##https://techscammersunited.com/t/list-of-typosquatted-domains-3-25-20-find-popups/10782
-woogle.com
-goggle.com
-googme.com
-mgail.com
-gmil.com
-gmai.com
-giail.com
-gmiil.com
-gmqil.com
-gmahl.com
-gmaal.com
-gmaim.com
-gmaih.com
-oyutube.com
-yuotube.com
-yotuube.com
-youutbe.com
-youtueb.com
-xoutube.com
-ioutube.com
-ykutube.com
-ygutube.com
-yottube.com
-yowtube.com
-yoetube.com
-youpube.com
-youdube.com
-youtwbe.com
-youtebe.com
-youtuce.com
-youtufe.com
-youture.com
-youtubd.com
-youtubg.com
-youtuba.com
-youtubu.com
-yautube.com
-youtabe.com
-yeutube.com
-youtubi.com
-yootube.com
-youtubo.com
-youtubecom.com
+0.0.0.0 woogle.com
+0.0.0.0 goggle.com
+0.0.0.0 googme.com
+0.0.0.0 mgail.com
+0.0.0.0 gmil.com
+0.0.0.0 gmai.com
+0.0.0.0 giail.com
+0.0.0.0 gmiil.com
+0.0.0.0 gmqil.com
+0.0.0.0 gmahl.com
+0.0.0.0 gmaal.com
+0.0.0.0 gmaim.com
+0.0.0.0 gmaih.com
+0.0.0.0 oyutube.com
+0.0.0.0 yuotube.com
+0.0.0.0 yotuube.com
+0.0.0.0 youutbe.com
+0.0.0.0 youtueb.com
+0.0.0.0 xoutube.com
+0.0.0.0 ioutube.com
+0.0.0.0 ykutube.com
+0.0.0.0 ygutube.com
+0.0.0.0 yottube.com
+0.0.0.0 yowtube.com
+0.0.0.0 yoetube.com
+0.0.0.0 youpube.com
+0.0.0.0 youdube.com
+0.0.0.0 youtwbe.com
+0.0.0.0 youtebe.com
+0.0.0.0 youtuce.com
+0.0.0.0 youtufe.com
+0.0.0.0 youture.com
+0.0.0.0 youtubd.com
+0.0.0.0 youtubg.com
+0.0.0.0 youtuba.com
+0.0.0.0 youtubu.com
+0.0.0.0 yautube.com
+0.0.0.0 youtabe.com
+0.0.0.0 yeutube.com
+0.0.0.0 youtubi.com
+0.0.0.0 yootube.com
+0.0.0.0 youtubo.com
+0.0.0.0 youtubecom.com
